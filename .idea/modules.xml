@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SocketProgramming/Module_01/Module_01.iml" filepath="$PROJECT_DIR$/SocketProgramming/Module_01/Module_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocketProgramming/Module_02/Module_02.iml" filepath="$PROJECT_DIR$/SocketProgramming/Module_02/Module_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SokcketProgramming.iml" filepath="$PROJECT_DIR$/.idea/SokcketProgramming.iml" />
     </modules>
   </component>

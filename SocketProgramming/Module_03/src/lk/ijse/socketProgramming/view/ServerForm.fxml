@@ -16,6 +16,6 @@
       </Label>
       <TextArea fx:id="textArea" layoutX="18.0" layoutY="86.0" prefHeight="238.0" prefWidth="565.0" />
       <TextField fx:id="textMessage" layoutX="15.0" layoutY="348.0" prefHeight="31.0" prefWidth="494.0" />
-      <Button fx:id="server_side_send_btn" layoutX="530.0" layoutY="348.0" mnemonicParsing="false" onAction="#sendOnAction" text="Send" />
+      <Button layoutX="530.0" layoutY="348.0" mnemonicParsing="false" onAction="#sendOnAction" text="Send" />
    </children>
 </AnchorPane>

@@ -17,7 +17,6 @@ import java.net.Socket;
  * @since : 0.1.0
  **/
 public class ServerFormController {
-    public Button server_side_send_btn;
     public AnchorPane serverSideAnchorPane;
     public TextArea textArea;
     public TextField textMessage;
